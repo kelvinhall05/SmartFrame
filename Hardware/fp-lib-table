@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name MIC23450)(type KiCad)(uri ${KIPRJMOD}/Libraries/mic23450-master/mic23450.pretty)(options "")(descr ""))
+  (lib (name 3340-assorted)(type KiCad)(uri ${KIPRJMOD}/Libraries/3340_kicad-master/3340.pretty)(options "")(descr ""))
+)
